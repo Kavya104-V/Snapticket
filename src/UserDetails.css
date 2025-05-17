@@ -1,0 +1,44 @@
+.user-container {
+    max-width: 600px;
+    margin: 50px auto;
+    padding: 30px;
+    border: 2px solid #e0e0e0;
+    border-radius: 12px;
+    background-color: #fdfdfd;
+    text-align: center;
+    font-family: Arial, sans-serif;
+  }
+  
+  .email-btn {
+    margin-top: 10px;
+    padding: 10px 20px;
+    background-color: #1976d2;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    font-size: 16px;
+  }
+  
+  .email-btn:hover {
+    background-color: #145aa8;
+  }
+  
+  .status-message {
+    margin-top: 20px;
+    font-weight: bold;
+    color: green;
+  }
+  
+  .back-home {
+    display: inline-block;
+    margin-top: 30px;
+    text-decoration: none;
+    color: #1976d2;
+    font-weight: bold;
+  }
+  
+  .back-home:hover {
+    text-decoration: underline;
+  }
+  

@@ -1,0 +1,6 @@
+{
+    "routes": [
+      { "src": "/manifest.json", "dest": "/public/manifest.json", "headers": { "cache-control": "public, max-age=86400" } }
+    ]
+  }
+  

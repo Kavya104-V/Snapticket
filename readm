@@ -1,0 +1,5 @@
+To deploy vercel:vercel--prod
+before deploaying go to index.js and remove the comments and after put back the commands so that while scaaning qr no two cameras is visible
+to push : git push
+got to backend folder :node Server.js
+in normal : npms start

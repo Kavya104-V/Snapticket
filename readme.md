@@ -32,7 +32,7 @@ Conductors can scan the QR to fetch passenger details and validate tickets in re
 
 <p align="center">
   <img src="images/scan.png" alt="Ticket Display" width="500"/>
-    <img src="images/ti.png" alt="Ticket Display" width="500"/>
+    <img src="images/eticket.jpg" alt="Ticket Display" width="500"/>
 
   <!-- Add a second image here if needed -->
 </p>
